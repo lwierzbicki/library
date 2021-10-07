@@ -1,5 +1,5 @@
 # library
 Links, articles and blogs
 
-[Web](/web.md)
-[Mobile](/mobile.md)
+- [Web](/web.md)
+- [Mobile](/mobile.md)
