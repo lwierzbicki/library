@@ -3,6 +3,7 @@
 - https://blog.ropnop.com/
 - https://honoki.net/
 - https://googleprojectzero.blogspot.com/
+- https://portswigger.net/research
 - https://skeletonscribe.net/
 - https://www.harmj0y.net/blog/blog/
 - https://www.netspi.com/blog/technical/
