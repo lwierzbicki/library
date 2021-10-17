@@ -6,6 +6,7 @@ Links, articles and blogs
 - [General](/general.md)
 - [Web](/web.md)
 - [Mobile](/mobile.md)
+- [Infra](/infra.md)
 
 
 Cheatsheet
