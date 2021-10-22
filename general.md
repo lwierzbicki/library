@@ -10,3 +10,10 @@
 - https://www.tiraniddo.dev
 - https://voidsec.com/category/blog/
 - https://x-c3ll.github.io/
+
+
+# E-zines
+
+- https://www.alchemistowl.org/pocorgtfo/
+- http://phrack.org/
+- https://pagedout.institute/
