@@ -19,6 +19,7 @@
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
 - [Rubeus](https://github.com/GhostPack/Rubeus)
+- [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)
 
 ## Windows PrivEsc
 
