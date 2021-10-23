@@ -1,3 +1,7 @@
+## Automation
+
+- [nuclei](https://github.com/projectdiscovery/nuclei)
+
 ## Code tools
 
 - [apkx](https://github.com/b-mueller/apkx)
