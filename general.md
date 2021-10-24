@@ -1,13 +1,19 @@
 # Blogs and sites
 
+- https://blog.oversecured.com/
 - https://blog.ropnop.com/
 - https://enigma0x3.net/
 - https://honoki.net/
 - https://googleprojectzero.blogspot.com/
+- https://labs.bishopfox.com/tech-blog
+- https://legalhackers.com/
+- https://pentest.blog/
 - https://portswigger.net/blog
 - https://portswigger.net/research
+- https://sec-consult.com/vulnerability-lab/#
 - https://skeletonscribe.net/
 - https://soroush.secproject.com
+- https://swarm.ptsecurity.com/
 - https://www.harmj0y.net/blog/blog/
 - https://www.netspi.com/blog/technical/
 - https://www.tiraniddo.dev
