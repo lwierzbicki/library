@@ -7,6 +7,7 @@
 - https://portswigger.net/blog
 - https://portswigger.net/research
 - https://skeletonscribe.net/
+- https://soroush.secproject.com
 - https://www.harmj0y.net/blog/blog/
 - https://www.netspi.com/blog/technical/
 - https://www.tiraniddo.dev
