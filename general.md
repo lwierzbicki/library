@@ -9,6 +9,7 @@
 - https://www.harmj0y.net/blog/blog/
 - https://www.netspi.com/blog/technical/
 - https://www.tiraniddo.dev
+- https://www.trapkit.de/
 - https://voidsec.com/category/blog/
 - https://x-c3ll.github.io/
 
