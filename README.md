@@ -7,7 +7,7 @@ Links, articles and blogs
 - [Web](/web.md)
 - [Mobile](/mobile.md)
 - [Infra](/infra.md)
-
+- [Java](/java.md)
 
 Cheatsheet
 - [Cheatsheet](/cheatsheet.md)
