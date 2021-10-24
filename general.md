@@ -1,6 +1,7 @@
 # Blogs and sites
 
 - https://blog.ropnop.com/
+- https://enigma0x3.net/
 - https://honoki.net/
 - https://googleprojectzero.blogspot.com/
 - https://portswigger.net/blog
