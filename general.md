@@ -28,3 +28,8 @@
 - https://www.alchemistowl.org/pocorgtfo/
 - https://pagedout.institute/
 
+# Write-ups
+
+- https://pentester.land/list-of-bug-bounty-writeups.html
+- https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+- https://github.com/jdonsec/AllThingsSSRF
