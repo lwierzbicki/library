@@ -4,6 +4,7 @@
 - https://blog.ropnop.com/
 - https://enigma0x3.net/
 - https://honoki.net/
+- http://hyp3rlinx.altervista.org/
 - https://googleprojectzero.blogspot.com/
 - https://labs.bishopfox.com/tech-blog
 - https://legalhackers.com/
