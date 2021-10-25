@@ -16,6 +16,7 @@
 - https://soroush.secproject.com
 - https://swarm.ptsecurity.com/
 - https://www.harmj0y.net/blog/blog/
+- https://www.modzero.com/modlog/
 - https://www.netspi.com/blog/technical/
 - https://www.tiraniddo.dev
 - https://www.trapkit.de/
