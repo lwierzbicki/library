@@ -2,6 +2,7 @@
 
 - https://blog.oversecured.com/
 - https://blog.ropnop.com/
+- https://codewhitesec.blogspot.com/
 - https://enigma0x3.net/
 - https://honoki.net/
 - http://hyp3rlinx.altervista.org/
