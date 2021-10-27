@@ -19,6 +19,7 @@
 - https://www.harmj0y.net/blog/blog/
 - https://www.modzero.com/modlog/
 - https://www.netspi.com/blog/technical/
+- https://www.pentestpartners.com/security-blog/
 - https://www.tiraniddo.dev
 - https://www.trapkit.de/
 - https://voidsec.com/category/blog/
