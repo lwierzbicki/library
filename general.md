@@ -35,6 +35,7 @@
 - https://pentester.land/list-of-bug-bounty-writeups.html
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 - https://github.com/jdonsec/AllThingsSSRF
+- https://github.com/ngalongc/bug-bounty-reference
 
 # Tools
 
