@@ -13,6 +13,7 @@
 - https://portswigger.net/blog
 - https://portswigger.net/research
 - https://sec-consult.com/vulnerability-lab/#
+- https://srcincite.io/advisories/
 - https://skeletonscribe.net/
 - https://soroush.secproject.com
 - https://swarm.ptsecurity.com/
