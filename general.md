@@ -35,3 +35,8 @@
 - https://pentester.land/list-of-bug-bounty-writeups.html
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 - https://github.com/jdonsec/AllThingsSSRF
+
+# Tools
+
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://www.kitploit.com/
