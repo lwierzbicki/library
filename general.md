@@ -39,6 +39,7 @@
 - https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 - https://github.com/jdonsec/AllThingsSSRF
 - https://github.com/ngalongc/bug-bounty-reference
+- https://secureitmania.medium.com/
 
 # Tools
 
