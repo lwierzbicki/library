@@ -20,3 +20,8 @@
 
 - [dafthack's CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
 - [CloudSecDocs](https://cloudsecdocs.com/)
+
+# Administrator's Guide
+
+- [Windows CMD](https://ss64.com/nt/)
+- [Bash CMD](https://ss64.com/bash/)
