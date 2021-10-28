@@ -25,3 +25,7 @@
 
 - [Windows CMD](https://ss64.com/nt/)
 - [Bash CMD](https://ss64.com/bash/)
+
+# Programmer's Guide
+
+- [devhints](https://devhints.io/)
