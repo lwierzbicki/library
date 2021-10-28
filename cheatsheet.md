@@ -19,3 +19,4 @@
 # Cloud
 
 - [dafthack's CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
+- [CloudSecDocs](https://cloudsecdocs.com/)
