@@ -12,6 +12,7 @@
 - [Red Teaming Experiments](https://www.ired.team/)
 - [HackTricks](https://book.hacktricks.xyz/)
 - [Philkeeble's cheatsheet](https://cheats.philkeeble.com/)
+- [Pentest Book](https://pentestbook.six2dez.com/)
 - [revshells](https://www.revshells.com/)
 - [GTFOBins](https://gtfobins.github.io/)
 - [LOLBAS](https://lolbas-project.github.io/#)
