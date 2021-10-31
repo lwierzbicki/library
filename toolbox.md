@@ -22,6 +22,10 @@
 - [Albatar](https://github.com/lanjelot/albatar)
 - [SQLmap](https://github.com/sqlmapproject/sqlmap)
 
+## XML
+
+- [XCat](https://github.com/orf/xcat)
+
 ## Web Tools
 
 - [XSS Hunter](https://xsshunter.com/)
