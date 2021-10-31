@@ -17,6 +17,10 @@
 
 # Web 
 
+## SQLi
+
+- [Albatar](https://github.com/lanjelot/albatar)
+
 ## Web Tools
 
 - [XSS Hunter](https://xsshunter.com/)
