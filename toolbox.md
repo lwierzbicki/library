@@ -22,9 +22,13 @@
 ## OSINT
 
 - [GitHound](https://github.com/tillson/git-hound)
+- [shhgit](https://github.com/eth0izzle/shhgit)
+- [gitGraber](https://github.com/hisxo/gitGraber)
+- [subjack](https://github.com/haccer/subjack)
 
 ## Recon Framework
 
+- [Recon-ng](https://github.com/lanmaster53/recon-ng)
 - [reNgine](https://github.com/yogeshojha/rengine)
 - [ReconNess](https://github.com/reconness/reconness)
 - [Osmedeus](https://github.com/j3ssie/Osmedeus)
