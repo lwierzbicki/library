@@ -35,6 +35,10 @@
 - [XSS Hunter](https://xsshunter.com/)
 - [ysoserial](https://github.com/frohoff/ysoserial)
 
+## Web Discovery
+
+- [feroxbuster](https://github.com/epi052/feroxbuster)
+
 ### Javascript obfuscators
 
 - [JSFuck](http://www.jsfuck.com/)
