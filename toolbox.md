@@ -29,7 +29,7 @@
 ## Recon Framework
 
 - [reNgine](https://github.com/yogeshojha/rengine)
-- [lazyrecon](https://github.com/nahamsec/lazyrecon)
+- [reconftw](https://github.com/six2dez/reconftw)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 
 # Mobile
