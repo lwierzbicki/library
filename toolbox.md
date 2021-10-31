@@ -19,18 +19,8 @@
 
 # Recon
 
-## OSINT
-
-- [GitHound](https://github.com/tillson/git-hound)
-- [shhgit](https://github.com/eth0izzle/shhgit)
-- [gitGraber](https://github.com/hisxo/gitGraber)
-- [subjack](https://github.com/haccer/subjack)
-
-## Recon Framework
-
 - [reNgine](https://github.com/yogeshojha/rengine)
 - [reconftw](https://github.com/six2dez/reconftw)
-- [spiderfoot](https://github.com/smicallef/spiderfoot)
 
 # Mobile
 
