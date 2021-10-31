@@ -29,8 +29,6 @@
 ## Recon Framework
 
 - [reNgine](https://github.com/yogeshojha/rengine)
-- [ReconNess](https://github.com/reconness/reconness)
-- [Osmedeus](https://github.com/j3ssie/Osmedeus)
 - [lazyrecon](https://github.com/nahamsec/lazyrecon)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 
