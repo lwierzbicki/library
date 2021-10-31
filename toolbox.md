@@ -1,3 +1,10 @@
+# General
+
+## Crypto
+
+- [Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+
 ## Automation
 
 - [nuclei](https://github.com/projectdiscovery/nuclei)
@@ -8,23 +15,7 @@
 - [apktool](https://github.com/iBotPeaches/Apktool)
 - [dnSpy](https://github.com/dnSpy/dnSpy)
 
-## Network tools
-
-- [Impacket](https://github.com/SecureAuthCorp/impacket)
-- [Responder](https://github.com/lgandx/Responder.git)
-- [testssl.sh](https://github.com/drwetter/testssl.sh)
-
-## AD Tools
-
-- [BloodHound](https://github.com/BloodHoundAD/BloodHound)
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
-- [Rubeus](https://github.com/GhostPack/Rubeus)
-- [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)
-
-## Windows PrivEsc
-
-- [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
-- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
+# Web 
 
 ## Web Tools
 
@@ -42,7 +33,35 @@
 
 - [JS nice](http://www.jsnice.org/)
 
-## Crypto
+# Infra
 
-- [Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
-- [CyberChef](https://gchq.github.io/CyberChef/)
+## AD Tools
+
+- [BloodHound](https://github.com/BloodHoundAD/BloodHound)
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+- [Rubeus](https://github.com/GhostPack/Rubeus)
+- [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)
+
+## Windows PrivEsc
+
+- [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
+- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
+
+
+## Network tools
+
+- [Impacket](https://github.com/SecureAuthCorp/impacket)
+- [Responder](https://github.com/lgandx/Responder.git)
+- [testssl.sh](https://github.com/drwetter/testssl.sh)
+
+
+
+
+
+
+
+
+
+
+
+
