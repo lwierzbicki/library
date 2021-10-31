@@ -20,11 +20,11 @@
 ## SQLi
 
 - [Albatar](https://github.com/lanjelot/albatar)
+- [SQLmap](https://github.com/sqlmapproject/sqlmap)
 
 ## Web Tools
 
 - [XSS Hunter](https://xsshunter.com/)
-- [SQLmap](https://github.com/sqlmapproject/sqlmap)
 - [ysoserial](https://github.com/frohoff/ysoserial)
 
 ### Javascript obfuscators
