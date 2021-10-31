@@ -64,6 +64,10 @@
 
 - [azucar](https://github.com/nccgroup/azucar)
 
+### AWS
+
+- [prowler](https://github.com/toniblyx/prowler)
+
 ## Recon
 
 ### Recon Framework
