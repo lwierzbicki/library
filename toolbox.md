@@ -58,7 +58,11 @@
 - [Responder](https://github.com/lgandx/Responder.git)
 - [testssl.sh](https://github.com/drwetter/testssl.sh)
 
+## Cloud
 
+### Azure
+
+- [azucar](https://github.com/nccgroup/azucar)
 
 
 
