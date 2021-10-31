@@ -50,6 +50,11 @@
 
 - [XCat](https://github.com/orf/xcat)
 
+## GraphQL
+
+- [altair](https://github.com/altair-graphql/altair)
+- [graphql-voyager](https://apis.guru/graphql-voyager/)
+
 ## Web Tools
 
 - [XSS Hunter](https://xsshunter.com/)
