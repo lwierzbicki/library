@@ -64,6 +64,8 @@
 
 ## Cloud
 
+- [list](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+
 ### Azure
 
 - [azucar](https://github.com/nccgroup/azucar)
