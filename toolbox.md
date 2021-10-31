@@ -28,7 +28,6 @@
 
 ## Recon Framework
 
-- [Recon-ng](https://github.com/lanmaster53/recon-ng)
 - [reNgine](https://github.com/yogeshojha/rengine)
 - [ReconNess](https://github.com/reconness/reconness)
 - [Osmedeus](https://github.com/j3ssie/Osmedeus)
