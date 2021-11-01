@@ -51,7 +51,6 @@
 - [XSS Hunter](https://xsshunter.com/)
 - [ysoserial](https://github.com/frohoff/ysoserial)
 - [NoSSQLMap](https://github.com/codingo/NoSQLMap)
-- [wapiti](https://github.com/wapiti-scanner/wapiti)
 
 ## Web Discovery
 
