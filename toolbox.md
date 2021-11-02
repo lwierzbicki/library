@@ -29,6 +29,7 @@
 
 # Thick Client
 
+- [sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 
 # Web 
 
