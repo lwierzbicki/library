@@ -20,6 +20,7 @@
 ## Code tools
 
 - [dnSpy](https://github.com/dnSpy/dnSpy)
+- [semgrep](https://github.com/returntocorp/semgrep)
 
 # Recon
 
