@@ -35,6 +35,7 @@
 # Thick Client
 
 - [sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
+- [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer)
 
 # Web 
 
