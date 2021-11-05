@@ -21,6 +21,7 @@
 
 - [dnSpy](https://github.com/dnSpy/dnSpy)
 - [semgrep](https://github.com/returntocorp/semgrep)
+- [SpotBugs](https://spotbugs.github.io/)
 
 # Recon
 
