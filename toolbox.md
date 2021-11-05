@@ -19,7 +19,10 @@
 
 ## Code tools
 
+- [apkx](https://github.com/b-mueller/apkx)
+- [apktool](https://github.com/iBotPeaches/Apktool)
 - [dnSpy](https://github.com/dnSpy/dnSpy)
+- [jd-cli](https://github.com/intoolswetrust/jd-cli)
 - [semgrep](https://github.com/returntocorp/semgrep)
 - [SpotBugs](https://spotbugs.github.io/)
 
@@ -29,9 +32,6 @@
 - [reconftw](https://github.com/six2dez/reconftw)
 
 # Mobile
-
-- [apkx](https://github.com/b-mueller/apkx)
-- [apktool](https://github.com/iBotPeaches/Apktool)
 
 # Thick Client
 
