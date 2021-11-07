@@ -22,6 +22,7 @@
 - [apkx](https://github.com/b-mueller/apkx)
 - [apktool](https://github.com/iBotPeaches/Apktool)
 - [dnSpy](https://github.com/dnSpy/dnSpy)
+- [graudit](https://github.com/wireghoul/graudit)
 - [jd-cli](https://github.com/intoolswetrust/jd-cli)
 - [semgrep](https://github.com/returntocorp/semgrep)
 - [SpotBugs](https://spotbugs.github.io/)
