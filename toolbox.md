@@ -91,6 +91,7 @@
 
 - [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
 - [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
+- [UACME](https://github.com/hfiref0x/UACME)
 
 
 ## Network tools
