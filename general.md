@@ -9,6 +9,7 @@
 - https://googleprojectzero.blogspot.com/
 - https://labs.bishopfox.com/tech-blog
 - https://legalhackers.com/
+- https://offsec.almond.consulting/
 - https://pentest.blog/
 - https://portswigger.net/blog
 - https://portswigger.net/research
@@ -18,6 +19,7 @@
 - https://soroush.secproject.com
 - https://swarm.ptsecurity.com/
 - https://www.harmj0y.net/blog/blog/
+- https://www.illumant.com
 - https://www.modzero.com/modlog/
 - https://www.netspi.com/blog/technical/
 - https://www.pentestpartners.com/security-blog/
