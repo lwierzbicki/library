@@ -54,6 +54,7 @@
 
 - [altair](https://github.com/altair-graphql/altair)
 - [graphql-voyager](https://apis.guru/graphql-voyager/)
+- [graphql query generator - chrome plugin](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej)
 
 ## Web Tools
 
