@@ -65,6 +65,11 @@
 
 - [feroxbuster](https://github.com/epi052/feroxbuster)
 
+## Java 
+
+- [RMIscout](https://github.com/BishopFox/rmiscout)
+
+
 ### Javascript obfuscators
 
 - [JSFuck](http://www.jsfuck.com/)
