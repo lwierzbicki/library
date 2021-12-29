@@ -11,7 +11,6 @@ Links, articles and blogs
 - [Windows](/windows.md)
 - [Linux](/linux.md)
 - [Database](/database.md)
-- [Java](/java.md)
 
 Cheatsheet
 - [Cheatsheet](/cheatsheet.md)
