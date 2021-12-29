@@ -3,10 +3,14 @@ Links, articles and blogs
 
 
 ## Topics
+
 - [General](/general.md)
+- [INFRA](/infra.md)
 - [Web](/web.md)
 - [Mobile](/mobile.md)
-- [Infra](/infra.md)
+- [Windows](/windows.md)
+- [Linux](/linux.md)
+- [Database](/database.md)
 - [Java](/java.md)
 
 Cheatsheet
