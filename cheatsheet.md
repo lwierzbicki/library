@@ -29,5 +29,6 @@
 
 # Programmer's Guide
 
+- [devdocs](https://devdocs.io/)
 - [devhints](https://devhints.io/)
 - [overapi](https://overapi.com/)
