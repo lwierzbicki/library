@@ -25,7 +25,6 @@
 - https://www.pentestpartners.com/security-blog/
 - https://www.tiraniddo.dev
 - https://www.trapkit.de/
-- https://voidsec.com/category/blog/
 - https://x-c3ll.github.io/
 
 
