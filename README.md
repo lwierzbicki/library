@@ -1,6 +1,11 @@
 # library
 Links, articles and blogs
 
+- [Blogs](/blog.md)
+- [Cheatsheets](/cheatsheet.md)
+- [Learn](/learn.md)
+- [Toolbox](/toolbox.md)
+
 
 ## Topics
 
@@ -12,8 +17,4 @@ Links, articles and blogs
 - [Linux](/linux.md)
 - [Database](/database.md)
 
-Cheatsheet
-- [Cheatsheet](/cheatsheet.md)
 
-Toolbox
-- [Toolbox](/toolbox.md)
