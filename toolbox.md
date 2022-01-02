@@ -1,8 +1,26 @@
 # General
 
-## MITM
+#### INFRA
 
-- [bettercap](https://github.com/bettercap/bettercap)
+| Tool | Description | 
+| ---- | ----------- |
+| [azucar](https://github.com/nccgroup/azucar) | Azure checker |
+| [bettercap](https://github.com/bettercap/bettercap) | MiTM tool |  
+| [Impacket](https://github.com/SecureAuthCorp/impacket) | Packet crafter for testing Windows |
+| [nuclei](https://github.com/projectdiscovery/nuclei) | vulnerability scanner |
+| [prowler](https://github.com/toniblyx/prowler) | AWS checker |
+
+#### Web
+
+#### Mobile
+
+#### Windows
+
+#### Linux
+
+#### Database
+
+
 
 ## Crypto
 
@@ -15,7 +33,7 @@
 
 ## Automation
 
-- [nuclei](https://github.com/projectdiscovery/nuclei)
+- 
 
 ## Code tools
 
@@ -102,7 +120,7 @@
 
 ## Network tools
 
-- [Impacket](https://github.com/SecureAuthCorp/impacket)
+- 
 - [Responder](https://github.com/lgandx/Responder.git)
 - [testssl.sh](https://github.com/drwetter/testssl.sh)
 
@@ -110,14 +128,6 @@
 
 [list](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
 
-
-### Azure
-
-- [azucar](https://github.com/nccgroup/azucar)
-
-### AWS
-
-- [prowler](https://github.com/toniblyx/prowler)
 
 
 
