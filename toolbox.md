@@ -12,10 +12,18 @@
 
 #### Web
 
+| Tool | Description | 
+| ---- | ----------- |
+| [graphql-voyager](https://apis.guru/graphql-voyager/) | graphql schema visualizer |
+| [graphql query generator](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej) | chrome plugin to generate query from graphql schema |
+| [GQL generator](https://github.com/timqian/gql-generator) | generate queries from graphql schema |
+
 #### Mobile
 
-- [apkx](https://github.com/b-mueller/apkx)
-- [apktool](https://github.com/iBotPeaches/Apktool)
+| Tool | Description | 
+| ---- | ----------- |
+| [apkx](https://github.com/b-mueller/apkx) | apk file extractor and decompile |
+| [apktool](https://github.com/iBotPeaches/Apktool) | apk file extractor and packer |
 
 #### Windows
 
@@ -68,9 +76,7 @@
 
 #### GraphQL
 
-- [graphql-voyager](https://apis.guru/graphql-voyager/)
-- [graphql query generator - chrome plugin](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej)
-- [GQL generator](https://github.com/timqian/gql-generator)
+
 
 ## Web Tools
 
