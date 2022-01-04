@@ -19,6 +19,7 @@
 | [GQL generator](https://github.com/timqian/gql-generator) | generate queries from graphql schema |
 | [Albatar](https://github.com/lanjelot/albatar) | SQLi checker |
 | [SQLmap](https://github.com/sqlmapproject/sqlmap) | SQLi checker |
+| [feroxbuster](https://github.com/epi052/feroxbuster) | web discovery |
 
 #### Mobile
 
@@ -84,7 +85,7 @@
 
 ## Web Discovery
 
-- [feroxbuster](https://github.com/epi052/feroxbuster)
+- 
 
 ## Java 
 
