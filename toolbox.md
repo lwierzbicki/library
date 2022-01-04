@@ -17,6 +17,8 @@
 | [graphql-voyager](https://apis.guru/graphql-voyager/) | graphql schema visualizer |
 | [graphql query generator](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej) | chrome plugin to generate query from graphql schema |
 | [GQL generator](https://github.com/timqian/gql-generator) | generate queries from graphql schema |
+| [Albatar](https://github.com/lanjelot/albatar) | SQLi checker |
+| [SQLmap](https://github.com/sqlmapproject/sqlmap) | SQLi checker |
 
 #### Mobile
 
@@ -67,15 +69,11 @@
 
 ## SQLi
 
-- [Albatar](https://github.com/lanjelot/albatar)
-- [SQLmap](https://github.com/sqlmapproject/sqlmap)
+
 
 ## XML
 
 - [XCat](https://github.com/orf/xcat)
-
-#### GraphQL
-
 
 
 ## Web Tools
