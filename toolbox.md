@@ -20,6 +20,9 @@
 | [Albatar](https://github.com/lanjelot/albatar) | SQLi checker |
 | [SQLmap](https://github.com/sqlmapproject/sqlmap) | SQLi checker |
 | [feroxbuster](https://github.com/epi052/feroxbuster) | web discovery |
+| [XSS Hunter](https://xsshunter.com/) | beacon to identify blind XSS |
+| [ysoserial](https://github.com/frohoff/ysoserial) | Java deserialization payload generator |
+| [NoSQLMap](https://github.com/codingo/NoSQLMap) | NoSQL checker |
 
 #### Mobile
 
@@ -68,9 +71,6 @@
 
 # Web 
 
-## SQLi
-
-
 
 ## XML
 
@@ -79,13 +79,8 @@
 
 ## Web Tools
 
-- [XSS Hunter](https://xsshunter.com/)
-- [ysoserial](https://github.com/frohoff/ysoserial)
-- [NoSSQLMap](https://github.com/codingo/NoSQLMap)
 
-## Web Discovery
 
-- 
 
 ## Java 
 
