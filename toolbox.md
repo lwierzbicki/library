@@ -33,6 +33,12 @@
 
 #### Windows
 
+| Tool | Description | 
+| ---- | ----------- |
+|  [sysinternals](https://docs.microsoft.com/en-us/sysinternals/) | windows toolkit | 
+| [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | attack surface analyzer | 
+
+
 #### Linux
 
 #### Database
@@ -62,25 +68,9 @@
 - [reNgine](https://github.com/yogeshojha/rengine)
 - [reconftw](https://github.com/six2dez/reconftw)
 
-# Mobile
-
-# Thick Client
-
-- [sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
-- [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer)
-
-# Web 
-
-
 ## XML
 
 - [XCat](https://github.com/orf/xcat)
-
-
-## Web Tools
-
-
-
 
 ## Java 
 
