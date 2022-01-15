@@ -4,6 +4,8 @@
 
 #### Web
 
+- [CVE-2019-18935: Remote Code Execution via Insecure Deserialization in Telerik UI](https://bishopfox.com/blog/cve-2019-18935-remote-code-execution-in-telerik-ui)
+
 #### Mobile
 
 #### Windows
@@ -12,6 +14,7 @@
 - [MindShaRE: Using IO Ninja to Analyze NPFS](https://www.zerodayinitiative.com/blog/2021/11/17/mindshare-using-io-ninja-to-analyze-npfs)
 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)
 - [Offensive Windows IPC Internals 2: RPC](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html)
+- [Technical White Paper: Finding and Exploiting the Check Point ZoneAlarm Anti-Virus for Local Privilege Escalation](https://www.illumant.com/blog/2019/01/16/check-point-anti-virus-technical-white-paper/)
 - [Windows Exploitation Tricks: Spoofing Named Pipe Client PID](https://googleprojectzero.blogspot.com/2019/09/windows-exploitation-tricks-spoofing.html)
 
 #### Linux
