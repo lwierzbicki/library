@@ -2,7 +2,7 @@
 
 #### INFRA
 
-| Tool | Description | 
+| Tool | Description |
 | ---- | ----------- |
 | [azucar](https://github.com/nccgroup/azucar) | Azure checker |
 | [bettercap](https://github.com/bettercap/bettercap) | MiTM tool |  
@@ -12,7 +12,7 @@
 
 #### Web
 
-| Tool | Description | 
+| Tool | Description |
 | ---- | ----------- |
 | [graphql-voyager](https://apis.guru/graphql-voyager/) | graphql schema visualizer |
 | [graphql query generator](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej) | chrome plugin to generate query from graphql schema |
@@ -26,17 +26,17 @@
 
 #### Mobile
 
-| Tool | Description | 
+| Tool | Description |
 | ---- | ----------- |
 | [apkx](https://github.com/b-mueller/apkx) | apk file extractor and decompile |
 | [apktool](https://github.com/iBotPeaches/Apktool) | apk file extractor and packer |
 
 #### Windows
 
-| Tool | Description | 
+| Tool | Description |
 | ---- | ----------- |
-|  [sysinternals](https://docs.microsoft.com/en-us/sysinternals/) | windows toolkit | 
-| [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | attack surface analyzer | 
+| [sysinternals](https://docs.microsoft.com/en-us/sysinternals/) | windows toolkit |
+| [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | attack surface analyzer |
 
 
 #### Linux

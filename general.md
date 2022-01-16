@@ -27,7 +27,6 @@
 - https://www.trapkit.de/
 - https://x-c3ll.github.io/
 
-
 # E-zines
 
 - http://phrack.org/

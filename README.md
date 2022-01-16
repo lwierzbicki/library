@@ -7,15 +7,8 @@ Links, articles and blogs
 - [Learn](/learn.md)
 - [Toolbox](/toolbox.md)
 
-
 ## Topics
 
 - [General](/general.md)
 - [INFRA](/infra.md)
-- [Web](/web.md)
 - [Mobile](/mobile.md)
-- [Windows](/windows.md)
-- [Linux](/linux.md)
-- [Database](/database.md)
-
-

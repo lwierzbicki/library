@@ -2,9 +2,14 @@
 
 #### Infra
 
+- [Attacking RMI based JMX services](https://mogwailabs.de/en/blog/2019/04/attacking-rmi-based-jmx-services/)
+- [An Trinhs RMI Registry Bypass](https://mogwailabs.de/en/blog/2020/02/an-trinhs-rmi-registry-bypass/)
+
 #### Web
 
 - [CVE-2019-18935: Remote Code Execution via Insecure Deserialization in Telerik UI](https://bishopfox.com/blog/cve-2019-18935-remote-code-execution-in-telerik-ui)
+- [WordPress Core 4.6 - Unauthenticated Remote Code Execution (RCE) PoC Exploit](https://exploitbox.io/vuln/WordPress-Exploit-4-6-RCE-CODE-EXEC-CVE-2016-10033.html)
+
 
 #### Mobile
 
