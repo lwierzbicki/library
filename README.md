@@ -11,4 +11,3 @@ Links, articles and blogs
 
 - [General](/general.md)
 - [INFRA](/infra.md)
-- [Mobile](/mobile.md)

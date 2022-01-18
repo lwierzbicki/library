@@ -10,8 +10,11 @@
 - [CVE-2019-18935: Remote Code Execution via Insecure Deserialization in Telerik UI](https://bishopfox.com/blog/cve-2019-18935-remote-code-execution-in-telerik-ui)
 - [WordPress Core 4.6 - Unauthenticated Remote Code Execution (RCE) PoC Exploit](https://exploitbox.io/vuln/WordPress-Exploit-4-6-RCE-CODE-EXEC-CVE-2016-10033.html)
 
-
 #### Mobile
+
+- [Analysing iOS Apps – Log Output](https://bsddaemonorg.wordpress.com/2021/04/12/analysing-ios-apps-log-output/)
+- [Saying Goodbye to my Favorite 5 Minute P1](https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/)
+- [TikTok for Android 1-Click RCE](https://dphoeniixx.medium.com/tiktok-for-android-1-click-rce-240266e78105)
 
 #### Windows
 
