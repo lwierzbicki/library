@@ -4,6 +4,7 @@
 
 - [Attacking RMI based JMX services](https://mogwailabs.de/en/blog/2019/04/attacking-rmi-based-jmx-services/)
 - [An Trinhs RMI Registry Bypass](https://mogwailabs.de/en/blog/2020/02/an-trinhs-rmi-registry-bypass/)
+- [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 
 #### Web
 
