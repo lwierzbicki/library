@@ -1,5 +1,10 @@
 #### General
 
+| Tool | Description |
+| ---- | ----------- |
+| [Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier) | cipher analyzer |
+| [CyberChef](https://gchq.github.io/CyberChef/) | encryption, encoding, compression, data analysis |
+
 #### INFRA
 
 | Tool | Description |
@@ -43,12 +48,6 @@
 
 #### Database
 
-
-
-## Crypto
-
-- [Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
-- [CyberChef](https://gchq.github.io/CyberChef/)
 
 ## Listeners
 
@@ -115,15 +114,3 @@
 ## Cloud
 
 [list](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
-
-
-
-
-
-
-
-
-
-
-
-
