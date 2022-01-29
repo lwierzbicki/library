@@ -24,7 +24,9 @@
 - [Offensive Windows IPC Internals 1: Named Pipes](https://csandker.io/2021/01/10/Offensive-Windows-IPC-1-NamedPipes.html)
 - [Offensive Windows IPC Internals 2: RPC](https://csandker.io/2021/02/21/Offensive-Windows-IPC-2-RPC.html)
 - [Technical White Paper: Finding and Exploiting the Check Point ZoneAlarm Anti-Virus for Local Privilege Escalation](https://www.illumant.com/blog/2019/01/16/check-point-anti-virus-technical-white-paper/)
+- [Windows Drivers Reverse Engineering Methodology](https://voidsec.com/windows-drivers-reverse-engineering-methodology/)
 - [Windows Exploitation Tricks: Spoofing Named Pipe Client PID](https://googleprojectzero.blogspot.com/2019/09/windows-exploitation-tricks-spoofing.html)
+- [.NET Remoting Revisited](https://codewhitesec.blogspot.com/2022/01/dotnet-remoting-revisited.html?m=1)
 
 #### Linux
 

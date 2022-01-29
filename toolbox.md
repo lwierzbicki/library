@@ -42,6 +42,7 @@
 | ---- | ----------- |
 | [sysinternals](https://docs.microsoft.com/en-us/sysinternals/) | windows toolkit |
 | [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | attack surface analyzer |
+| [winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS) | windows privilege escalation scripts |
 
 
 #### Linux
@@ -71,10 +72,9 @@
 
 - [XCat](https://github.com/orf/xcat)
 
-## Java 
+## Java
 
 - [RMIscout](https://github.com/BishopFox/rmiscout)
-
 
 ### Javascript obfuscators
 
@@ -90,7 +90,6 @@
 
 [shell-storm](http://shell-storm.org/shellcode/)
 
-
 ## AD Tools
 
 - [BloodHound](https://github.com/BloodHoundAD/BloodHound)
@@ -104,10 +103,8 @@
 - [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
 - [UACME](https://github.com/hfiref0x/UACME)
 
-
 ## Network tools
 
-- 
 - [Responder](https://github.com/lgandx/Responder.git)
 - [testssl.sh](https://github.com/drwetter/testssl.sh)
 
