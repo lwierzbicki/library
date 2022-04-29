@@ -42,6 +42,7 @@
 | ---- | ----------- |
 | [sysinternals](https://docs.microsoft.com/en-us/sysinternals/) | windows toolkit |
 | [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | attack surface analyzer |
+| [dnSpy](https://github.com/dnSpy/dnSpy) | c# decompiler |
 | [winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS) | windows privilege escalation scripts |
 
 
