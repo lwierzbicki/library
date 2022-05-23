@@ -7,6 +7,7 @@
 
 #### INFRA
 
+| <td colspan=2> INFRA |
 | Tool | Description |
 | ---- | ----------- |
 | [azucar](https://github.com/nccgroup/azucar) | Azure checker |
