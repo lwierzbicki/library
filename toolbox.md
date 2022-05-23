@@ -45,11 +45,13 @@
 | [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | attack surface analyzer |
 | [dnSpy](https://github.com/dnSpy/dnSpy) | c# decompiler |
 | [winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS) | windows privilege escalation scripts |
-
-
-#### Linux
-
-#### Database
+| [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc) | privilege escalation checker |
+| [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS) | privilege escalation checker |
+| [UACME](https://github.com/hfiref0x/UACME) | UAC bypasses |
+| [BloodHound](https://github.com/BloodHoundAD/BloodHound) | lateral movement paths through AD |
+| [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) | Powershell framework for AD assessments|
+| [Rubeus](https://github.com/GhostPack/Rubeus) | C# toolset for Kerberos interaction and abuse |
+| [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | MSSQL escalation and checker |
 
 
 ## Listeners
@@ -94,16 +96,6 @@
 
 ## AD Tools
 
-- [BloodHound](https://github.com/BloodHoundAD/BloodHound)
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
-- [Rubeus](https://github.com/GhostPack/Rubeus)
-- [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL)
-
-## Windows PrivEsc
-
-- [PowerUp](https://github.com/PowerShellMafia/PowerSploit/tree/master/Privesc)
-- [WinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS)
-- [UACME](https://github.com/hfiref0x/UACME)
 
 ## Network tools
 
