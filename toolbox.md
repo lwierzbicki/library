@@ -16,6 +16,8 @@
 | [nuclei](https://github.com/projectdiscovery/nuclei) | vulnerability scanner |
 | [prowler](https://github.com/toniblyx/prowler) | AWS checker |
 | [RMIscout](https://github.com/BishopFox/rmiscout) | JAVA RMI scanner |
+| [Responder](https://github.com/lgandx/Responder.git) | LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay |
+| [testssl.sh](https://github.com/drwetter/testssl.sh) | SSL checker |
 
 #### Web
 
@@ -79,24 +81,9 @@
 
 - [XCat](https://github.com/orf/xcat)
 
-## Java
-
-- 
-
-### Javascript obfuscators
-
-
 # Infra
 
 [shell-storm](http://shell-storm.org/shellcode/)
-
-## AD Tools
-
-
-## Network tools
-
-- [Responder](https://github.com/lgandx/Responder.git)
-- [testssl.sh](https://github.com/drwetter/testssl.sh)
 
 ## Cloud
 
