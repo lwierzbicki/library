@@ -15,6 +15,7 @@
 | [Impacket](https://github.com/SecureAuthCorp/impacket) | Packet crafter for testing Windows |
 | [nuclei](https://github.com/projectdiscovery/nuclei) | vulnerability scanner |
 | [prowler](https://github.com/toniblyx/prowler) | AWS checker |
+| [RMIscout](https://github.com/BishopFox/rmiscout) | JAVA RMI scanner |
 
 #### Web
 
@@ -54,18 +55,20 @@
 | [PowerUpSQL](https://github.com/NetSPI/PowerUpSQL) | MSSQL escalation and checker |
 
 
-## Listeners
-
-- [WILSON](https://github.com/honoki/wilson-cloud-respwnder)
-
 ## Code tools
 
 
-- [dnSpy](https://github.com/dnSpy/dnSpy)
-- [graudit](https://github.com/wireghoul/graudit)
-- [jd-cli](https://github.com/intoolswetrust/jd-cli)
-- [semgrep](https://github.com/returntocorp/semgrep)
-- [SpotBugs](https://spotbugs.github.io/)
+| Tool | Description |
+| ---- | ----------- |
+| [graudit](https://github.com/wireghoul/graudit) | static code scanning |
+| [semgrep](https://github.com/returntocorp/semgrep) | static code scanning |
+| [SpotBugs](https://spotbugs.github.io/) | Java static code scanning |
+| [dnSpy](https://github.com/dnSpy/dnSpy) | C# decompiler | 
+| [JSFuck](http://www.jsfuck.com/) | javascript deobfuscator |
+| [JJ Encode](https://utf-8.jp/public/jjencode.html) | javascript deobfuscator |
+| [AA Encode](https://utf-8.jp/public/aaencode.html) | javascript deobfuscator |
+| [JS nice](http://www.jsnice.org/) | javascript deobfuscator |
+
 
 # Recon
 
@@ -78,17 +81,10 @@
 
 ## Java
 
-- [RMIscout](https://github.com/BishopFox/rmiscout)
+- 
 
 ### Javascript obfuscators
 
-- [JSFuck](http://www.jsfuck.com/)
-- [JJ Encode](https://utf-8.jp/public/jjencode.html)
-- [AA Encode](https://utf-8.jp/public/aaencode.html)
-
-### Javascript deobfuscators
-
-- [JS nice](http://www.jsnice.org/)
 
 # Infra
 
