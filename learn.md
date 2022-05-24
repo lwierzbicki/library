@@ -17,6 +17,7 @@
 
 - [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 - [pwn.college](https://pwn.college/)
+- [CMPSC 447 Software Security](https://www.cse.psu.edu/~gxt29/teaching/cs447s19/index.html)
 
 #### IoT
 
