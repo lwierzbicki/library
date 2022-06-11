@@ -14,6 +14,7 @@
 | [bettercap](https://github.com/bettercap/bettercap) | MiTM tool |  
 | [Impacket](https://github.com/SecureAuthCorp/impacket) | Packet crafter for testing Windows |
 | [nuclei](https://github.com/projectdiscovery/nuclei) | vulnerability scanner |
+| [NTLMRawUnhide](https://github.com/mlgualtieri/NTLMRawUnhide) | get NetNTLM hash from network traffic dump | 
 | [prowler](https://github.com/toniblyx/prowler) | AWS checker |
 | [RMIscout](https://github.com/BishopFox/rmiscout) | JAVA RMI scanner |
 | [Responder](https://github.com/lgandx/Responder.git) | LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay |
