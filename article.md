@@ -7,6 +7,7 @@
 - [modzero security advisory](https://www.modzero.com/advisories/)
 - [pt swarm security](https://swarm.ptsecurity.com/)
 - [synactiv](https://www.synacktiv.com/en/publications%253Ffield_tags_target_id%253D3.html)
+- [rhino security](https://rhinosecuritylabs.com/blog/)
 
 #### Infra
 
