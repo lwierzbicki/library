@@ -1,5 +1,13 @@
 # Articles
 
+#### Advisory places
+
+- [google project zero](https://googleprojectzero.blogspot.com)
+- [nccgroup technical advisory](https://research.nccgroup.com/category/technical-advisory/)
+- [modzero security advisory](https://www.modzero.com/advisories/)
+- [pt swarm security](https://swarm.ptsecurity.com/)
+- [synactiv](https://www.synacktiv.com/en/publications%253Ffield_tags_target_id%253D3.html)
+
 #### Infra
 
 - [Attacking RMI based JMX services](https://mogwailabs.de/en/blog/2019/04/attacking-rmi-based-jmx-services/)
