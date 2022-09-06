@@ -3,6 +3,7 @@
 - https://blog.oversecured.com/
 - https://blog.ropnop.com/
 - https://codewhitesec.blogspot.com/
+- https://csandker.io/
 - https://enigma0x3.net/
 - https://honoki.net/
 - http://hyp3rlinx.altervista.org/
@@ -16,6 +17,7 @@
 - https://portswigger.net/research
 - https://sec-consult.com/vulnerability-lab/#
 - https://srcincite.io/advisories/
+- https://srcincite.io/
 - https://skeletonscribe.net/
 - https://soroush.secproject.com
 - https://swarm.ptsecurity.com/
@@ -26,13 +28,10 @@
 - https://www.modzero.com/modlog/
 - https://www.netspi.com/blog/technical/
 - https://www.pentestpartners.com/security-blog/
+- https://www.ptrace-security.com/
 - https://www.tiraniddo.dev
 - https://www.trapkit.de/
 - https://x-c3ll.github.io/
-
-
-
-
 
 # E-zines
 
