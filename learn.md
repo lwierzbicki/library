@@ -9,6 +9,7 @@
 #### Trainings
 
 - [Mosse-Institue](https://www.mosse-institute.com)
+- [offensive security](https://portal.offensive-security.com/)
 - [sektor7](https://institute.sektor7.net/)
 - [ZeroPointSecurity](https://www.zeropointsecurity.co.uk/red-team-ops)
 

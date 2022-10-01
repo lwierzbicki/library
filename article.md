@@ -4,6 +4,7 @@
 
 - [code white](https://codewhitesec.blogspot.com/)
 - [google project zero](https://googleprojectzero.blogspot.com)
+- [kudelskisecurity](https://research.kudelskisecurity.com/)
 - [nccgroup technical advisory](https://research.nccgroup.com/category/technical-advisory/)
 - [modzero security advisory](https://www.modzero.com/advisories/)
 - [pt swarm security](https://swarm.ptsecurity.com/)

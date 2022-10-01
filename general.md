@@ -10,6 +10,7 @@
 - https://googleprojectzero.blogspot.com/
 - [itm4n blog](https://itm4n.github.io/)
 - https://labs.bishopfox.com/tech-blog
+- https://labs.nettitude.com/
 - https://legalhackers.com/
 - https://offsec.almond.consulting/
 - https://pentest.blog/
@@ -25,6 +26,7 @@
 - [alex ionescu blog](https://www.alex-ionescu.com/)
 - https://www.harmj0y.net/blog/blog/
 - https://www.illumant.com
+- https://www.mdsec.co.uk/knowledge-centre/research/
 - https://www.modzero.com/modlog/
 - https://www.netspi.com/blog/technical/
 - https://www.pentestpartners.com/security-blog/
