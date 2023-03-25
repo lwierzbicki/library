@@ -4,8 +4,8 @@ Useful tools with short description.
 
 ## General
 
-[Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier): cipher analyzer
-[CyberChef](https://gchq.github.io/CyberChef/): encryption, encoding, compression, data analysis
+- [Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier): cipher analyzer
+- [CyberChef](https://gchq.github.io/CyberChef/): encryption, encoding, compression, data analysis
 
 ## INFRA
 
