@@ -1,38 +1,41 @@
 # TOOLBOX
 
 Useful tools with short description.
+More idea about tools can be found:
+- [kitploit](https://www.kitploit.com)
+- 
 
 ## General
 
 - [Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier): cipher analyzer
 - [CyberChef](https://gchq.github.io/CyberChef/): encryption, encoding, compression, data analysis
 
-## INFRA
+## Infra
 
-[bettercap](https://github.com/bettercap/bettercap): MiTM tool
-[Impacket](https://github.com/SecureAuthCorp/impacket): Packet crafter for testing Windows
-[nuclei](https://github.com/projectdiscovery/nuclei): vulnerability scanner
-[NTLMRawUnhide](https://github.com/mlgualtieri/NTLMRawUnhide): get NetNTLM hash from network traffic dump
-[RMIscout](https://github.com/BishopFox/rmiscout): JAVA RMI scanner
-[Responder](https://github.com/lgandx/Responder.git): LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay
-[testssl.sh](https://github.com/drwetter/testssl.sh): SSL checker
+- [bettercap](https://github.com/bettercap/bettercap): MiTM tool
+- [Impacket](https://github.com/SecureAuthCorp/impacket): Packet crafter for testing Windows
+- [nuclei](https://github.com/projectdiscovery/nuclei): vulnerability scanner
+- [NTLMRawUnhide](https://github.com/mlgualtieri/NTLMRawUnhide): get NetNTLM hash from network traffic dump
+- [RMIscout](https://github.com/BishopFox/rmiscout): JAVA RMI scanner
+- [Responder](https://github.com/lgandx/Responder.git): LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay
+- [testssl.sh](https://github.com/drwetter/testssl.sh): SSL checker
 
-### Cloud
+## Cloud
 
-[azucar](https://github.com/nccgroup/azucar): Azure checker
-[prowler](https://github.com/toniblyx/prowler): AWS checker
+- [azucar](https://github.com/nccgroup/azucar): Azure checker
+- [prowler](https://github.com/toniblyx/prowler): AWS checker
 
-#### Web
+## Web
 
-[graphql-voyager](https://apis.guru/graphql-voyager/) | graphql schema visualizer |
-[graphql query generator](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej) | chrome plugin to generate query from graphql schema |
-[GQL generator](https://github.com/timqian/gql-generator) | generate queries from graphql schema |
-[Albatar](https://github.com/lanjelot/albatar) | SQLi checker |
-[SQLmap](https://github.com/sqlmapproject/sqlmap) | SQLi checker |
-[feroxbuster](https://github.com/epi052/feroxbuster) | web discovery |
-[XSS Hunter](https://xsshunter.com/) | beacon to identify blind XSS |
-[ysoserial](https://github.com/frohoff/ysoserial) | Java deserialization payload generator |
-[NoSQLMap](https://github.com/codingo/NoSQLMap) | NoSQL checker |
+- [Albatar](https://github.com/lanjelot/albatar) | SQLi checker |
+- [feroxbuster](https://github.com/epi052/feroxbuster) | web discovery |
+- [graphql-voyager](https://apis.guru/graphql-voyager/) | graphql schema visualizer |
+- [graphql query generator](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej) | chrome plugin to generate query from graphql schema |
+- [GQL generator](https://github.com/timqian/gql-generator) | generate queries from graphql schema |
+- [NoSQLMap](https://github.com/codingo/NoSQLMap) | NoSQL checker |
+- [SQLmap](https://github.com/sqlmapproject/sqlmap) | SQLi checker |
+- [XSS Hunter](https://xsshunter.com/) | beacon to identify blind XSS |
+- [ysoserial](https://github.com/frohoff/ysoserial) | Java deserialization payload generator |
 
 #### Mobile
 
