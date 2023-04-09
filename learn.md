@@ -1,15 +1,12 @@
 # Learn
 
-## Labs & Exercises
-
-- [HackTheBox](https://www.hackthebox.eu/)
-- [PentesterLab](https://pentesterlab.com/)
-
 ## Trainings
 
+- [HackTheBox](https://www.hackthebox.eu/)
 - [HackTheBox Academy](https://academy.hackthebox.com/)
 - [Mosse-Institue](https://www.mosse-institute.com)
 - [offensive security](https://portal.offensive-security.com/)
+- [PentesterLab](https://pentesterlab.com/)
 - [Portswigger Web Academy](https://portswigger.net/web-security)
 - [sektor7](https://institute.sektor7.net/)
 - [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
