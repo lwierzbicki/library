@@ -2,14 +2,14 @@
 
 ## Trainings
 
-- [HackTheBox](https://www.hackthebox.eu/)
-- [HackTheBox Academy](https://academy.hackthebox.com/)
-- [Mosse-Institue](https://www.mosse-institute.com)
-- [offensive security](https://portal.offensive-security.com/)
-- [PentesterLab](https://pentesterlab.com/)
-- [Portswigger Web Academy](https://portswigger.net/web-security)
-- [sektor7](https://institute.sektor7.net/)
-- [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
+- [x] [HackTheBox](https://www.hackthebox.eu/)
+- [x] [HackTheBox Academy](https://academy.hackthebox.com/)
+- [x] [Mosse-Institue](https://www.mosse-institute.com)
+- [x] [offensive security](https://portal.offensive-security.com/)
+- [x] [PentesterLab](https://pentesterlab.com/)
+- [x] [Portswigger Web Academy](https://portswigger.net/web-security)
+- [x] [sektor7](https://institute.sektor7.net/)
+- [x] [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
 
 ## Courses
 
