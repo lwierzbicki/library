@@ -2,6 +2,7 @@
 
 ## Trainings
 
+- [ ] [APIsec University](https://www.apisecuniversity.com/)
 - [x] [HackTheBox](https://www.hackthebox.eu/)
 - [x] [HackTheBox Academy](https://academy.hackthebox.com/)
 - [x] [Mosse-Institue](https://www.mosse-institute.com)
@@ -9,6 +10,7 @@
 - [x] [PentesterLab](https://pentesterlab.com/)
 - [x] [Portswigger Web Academy](https://portswigger.net/web-security)
 - [x] [sektor7](https://institute.sektor7.net/)
+- [ ] [smartcontracthacking](https://smartcontractshacking.com/)
 - [x] [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
 
 ## Courses

@@ -1,4 +1,6 @@
-# AppSec
+# Cheatsheets
+
+## AppSec
 
 - [ ] [Application Security Wiki](https://appsecwiki.com/)
 - [ ] [CyberChef](https://gchq.github.io/CyberChef/)
@@ -7,7 +9,7 @@
 - [ ] [unicode search](https://unicode-search.net/unicode-namesearch.pl?term=SPACE)
 
 
-# Infra & RedTeam
+## Infra & RedTeam
 
 - [ ] [Exploit notes](https://exploit-notes.hdks.org/)
 - [ ] [GTFOBins](https://gtfobins.github.io/)
@@ -19,18 +21,19 @@
 - [ ] [Red Teaming Experiments](https://www.ired.team/)
 - [ ] [revshells](https://www.revshells.com/)
 
-# Cloud
+## Cloud
 
 - [ ] [CloudSecDocs](https://cloudsecdocs.com/)
 - [ ] [dafthack's CloudPentestCheatsheets](https://github.com/dafthack/CloudPentestCheatsheets)
 
-# Administrator's Guide
+## Administrator's Guide
 
 - [ ] [Windows CMD](https://ss64.com/nt/)
 - [ ] [Bash CMD](https://ss64.com/bash/)
 
-# Programmer's Guide
+## Programmer's Guide
 
 - [ ] [devdocs](https://devdocs.io/)
 - [ ] [devhints](https://devhints.io/)
+- [ ] [grep](https://quickref.me/grep)
 - [ ] [overapi](https://overapi.com/)
