@@ -20,4 +20,4 @@
 
 ## IoT
 
-- [Tactical Network Solutions](https://www.tacnetsol.com/)
+- [ ] [Tactical Network Solutions](https://www.tacnetsol.com/)

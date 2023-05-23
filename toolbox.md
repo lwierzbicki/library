@@ -7,8 +7,8 @@ More idea about tools can be found:
 
 ## General
 
-- [Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier): cipher analyzer
-- [CyberChef](https://gchq.github.io/CyberChef/): encryption, encoding, compression, data analysis
+- [ ] [Ciphers Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier): cipher analyzer
+- [x] [CyberChef](https://gchq.github.io/CyberChef/): encryption, encoding, compression, data analysis
 
 ## Infra
 
