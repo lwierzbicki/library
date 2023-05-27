@@ -3,14 +3,20 @@
 ## Trainings
 
 - [ ] [APIsec University](https://www.apisecuniversity.com/)
+- [ ] [AppSecEngineer](https://www.appsecengineer.com/)
+- [ ] [ExodusIntel Training](https://exodusintel.com/training.html)
 - [x] [HackTheBox](https://www.hackthebox.eu/)
 - [x] [HackTheBox Academy](https://academy.hackthebox.com/)
+- [ ] [KONTRA](https://application.security/)
 - [x] [Mosse-Institue](https://www.mosse-institute.com)
 - [x] [offensive security](https://portal.offensive-security.com/)
 - [x] [PentesterLab](https://pentesterlab.com/)
 - [x] [Portswigger Web Academy](https://portswigger.net/web-security)
+- [ ] [Practical DevSecOps](https://www.practical-devsecops.com/)
 - [x] [sektor7](https://institute.sektor7.net/)
 - [ ] [smartcontracthacking](https://smartcontractshacking.com/)
+- [ ] [TCM Security](https://academy.tcm-sec.com/courses)
+- [ ] [Vulnmachines](https://www.vulnmachines.com/)
 - [x] [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
 
 ## Courses
@@ -22,4 +28,15 @@
 
 ## IoT
 
+- [ ] [Attify](https://www.attify-store.com/collections/training)
+- [ ] [Flashback Team](https://www.flashback.sh/training)
 - [ ] [Tactical Network Solutions](https://www.tacnetsol.com/)
+
+## Programming Trainings
+
+- [ ] [Learn Go](https://quii.gitbook.io/learn-go-with-tests/)
+- [ ] [The Go Programming Language](https://go.dev/)
+
+## Tech Trainings
+
+- [ ] [Linux Foundation](https://training.linuxfoundation.org/certification-catalog/)
