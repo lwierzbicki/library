@@ -2,8 +2,8 @@
 
 Useful tools with short description.
 More idea about tools can be found:
-- [ ] kitploit](https://www.kitploit.com)
-- 
+- [ ] [kitploit](https://www.kitploit.com)
+- [ ] [offsec tools](https://offsec.tools/)
 
 ## General
 

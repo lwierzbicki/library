@@ -16,6 +16,7 @@
 - [ ] [Hackerlab CZ](https://wiki.hackerlab.cz/)
 - [ ] [HackTricks](https://book.hacktricks.xyz/)
 - [ ] [LOLBAS](https://lolbas-project.github.io/#)
+- [ ] [offensive security cheatsheet](https://cheatsheet.haax.fr/)
 - [ ] [Pentest Book](https://pentestbook.six2dez.com/)
 - [ ] [Philkeeble's cheatsheet](https://cheats.philkeeble.com/)
 - [ ] [Red Teaming Experiments](https://www.ired.team/)
