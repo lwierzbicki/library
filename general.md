@@ -42,7 +42,3 @@
 - https://github.com/jdonsec/AllThingsSSRF
 - https://github.com/ngalongc/bug-bounty-reference
 - https://secureitmania.medium.com/
-
-# Tools
-
-- https://github.com/trimstray/the-book-of-secret-knowledge

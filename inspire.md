@@ -25,3 +25,4 @@ places to follow, podcasts, inspirational blogs
 ## Inspirational sites
 
 - [Learning Logs by Angela](https://www.learninglogs.ca/)
+- [PentesterLand](https://pentester.land/)

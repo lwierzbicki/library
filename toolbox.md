@@ -4,6 +4,7 @@ Useful tools with short description.
 More idea about tools can be found:
 - [ ] [kitploit](https://www.kitploit.com)
 - [ ] [offsec tools](https://offsec.tools/)
+- [ ] [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 ## General
 
