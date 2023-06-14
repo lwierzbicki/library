@@ -1,19 +1,5 @@
 # Articles
 
-#### Advisory places
-
-- [code white](https://codewhitesec.blogspot.com/)
-- [google project zero](https://googleprojectzero.blogspot.com)
-- [kudelskisecurity](https://research.kudelskisecurity.com/)
-- [nccgroup technical advisory](https://research.nccgroup.com/category/technical-advisory/)
-- [modzero security advisory](https://www.modzero.com/advisories/)
-- [pt swarm security](https://swarm.ptsecurity.com/)
-- [ssd disclosure](https://ssd-disclosure.com/advisories-archive/)
-- [synactiv](https://www.synacktiv.com/en/publications%253Ffield_tags_target_id%253D3.html)
-- [star labs advisory](https://starlabs.sg/advisories/)
-- [rhino security](https://rhinosecuritylabs.com/blog/)
-- [zdi blog](https://www.zerodayinitiative.com/blog)
-
 #### Infra
 
 - [Attacking RMI based JMX services](https://mogwailabs.de/en/blog/2019/04/attacking-rmi-based-jmx-services/)

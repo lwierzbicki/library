@@ -40,3 +40,6 @@
 ## Tech Trainings
 
 - [ ] [Linux Foundation](https://training.linuxfoundation.org/certification-catalog/)
+
+## Certificate preparations
+A list to prepare for certifications

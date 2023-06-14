@@ -35,12 +35,6 @@
 - https://www.trapkit.de/
 - https://x-c3ll.github.io/
 
-# E-zines
-
-- http://phrack.org/
-- https://www.alchemistowl.org/pocorgtfo/
-- https://pagedout.institute/
-
 # Write-ups
 
 - https://pentester.land/list-of-bug-bounty-writeups.html
@@ -52,4 +46,3 @@
 # Tools
 
 - https://github.com/trimstray/the-book-of-secret-knowledge
-- https://www.kitploit.com/
