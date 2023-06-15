@@ -3,9 +3,9 @@ Links, articles and blogs
 
 ## Articles
 
-- [ ] [Bug hunting articles](/bugbounty.article.md) - articles which focus on techniques during bug bounty. 
-- [ ] [Pentest articles](/pentest.article.md) - articles which focus on techniques used during pentest/red team engagement.
-- [ ] [Research articles](/research.article.md) - articles which focus on discovering and analysing/exploiting vulnerabilities, and showing workbench,methodology.
+- [ ] [Bug hunting articles](/bugbounty.article.md) - articles which focus on techniques employed during bug bounty. 
+- [ ] [Pentest articles](/pentest.article.md) - articles which focus on techniques employed during pentest and red team engagements.
+- [ ] [Research articles](/research.article.md) - articles which focus on the discovery, analysis, and exploitation of vulnerabilities, , while also aiming to enhance researchers' methodologies.
 - [ ] [Bugs articles](/bug.article.md) - typical bug category like XXE, XSS, SQLi
 
 ## Improve
