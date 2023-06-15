@@ -10,15 +10,15 @@ Links, articles and blogs
 
 ## Improve
 
-- [Books](/book.md) - books
-- [Conferences](/conferences.md) - conferences
-- [Learn](/learn.md) - learning materials
-- [Inspire](/inspire.md) - places to follow, podcasts, inspirational blogs
+- [ ] [Books](/book.md) - books
+- [ ] [Conferences](/conferences.md) - conferences
+- [ ] [Learn](/learn.md) - learning materials
+- [ ] [Inspire](/inspire.md) - places to follow, podcasts, inspirational blogs
 
 ## Tools
 
-- [Cheatsheets](/cheatsheet.md) - list of cheatsheets
-- [Toolbox](/toolbox.md) - list of tools
+- [ ] [Cheatsheets](/cheatsheet.md) - list of cheatsheets
+- [ ] [Toolbox](/toolbox.md) - list of tools
 
 ## Topics
 
