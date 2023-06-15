@@ -1,7 +1,11 @@
 # Book
 
-## General
+## For pentester
+
+## For researcher
 
 ## Bug finding
 
-## Offensive
+## Security in general
+
+## Technology in general
