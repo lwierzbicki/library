@@ -24,5 +24,11 @@ places to follow, podcasts, inspirational blogs
 
 ## Inspirational sites
 
+- [alex ionescu blog](https://www.alex-ionescu.com/)
+- [csandker](https://csandker.io/)
+- [hyp3rlinx](http://hyp3rlinx.altervista.org/)
+- [itm4n blog](https://itm4n.github.io/)
 - [Learning Logs by Angela](https://www.learninglogs.ca/)
 - [PentesterLand](https://pentester.land/)
+- [ropnop blog](https://blog.ropnop.com/)
+- [voidsec blog](https://voidsec.com/)
