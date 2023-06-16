@@ -22,6 +22,13 @@ places to follow, podcasts, inspirational blogs
 - [pocorgtfo](https://www.alchemistowl.org/pocorgtfo/)
 - [pagedout](https://pagedout.institute/)
 
+
+## Company blogs to follow
+
+- [almond](https://offsec.almond.consulting/)
+
+## Individual blogs to follow
+
 ## Inspirational sites
 
 - [alex ionescu blog](https://www.alex-ionescu.com/)
@@ -30,6 +37,7 @@ places to follow, podcasts, inspirational blogs
 - [hyp3rlinx](http://hyp3rlinx.altervista.org/)
 - [itm4n blog](https://itm4n.github.io/)
 - [Learning Logs by Angela](https://www.learninglogs.ca/)
+- [legalhackers](https://legalhackers.com/)
 - [PentesterLand](https://pentester.land/)
 - [ropnop blog](https://blog.ropnop.com/)
 - [voidsec blog](https://voidsec.com/)
