@@ -23,7 +23,6 @@ Links, articles and blogs
 ## Topics
 
 - [General](/general.md)
-- [INFRA](/infra.md)
 
 ## Thanks and inspiration
 
