@@ -15,8 +15,6 @@ Articles which focus on finding vulnerabilities and researching technology.
 - [ ] [CVE-2019-18935: Remote Code Execution via Insecure Deserialization in Telerik UI](https://bishopfox.com/blog/cve-2019-18935-remote-code-execution-in-telerik-ui)
 - [ ] [WordPress Core 4.6 - Unauthenticated Remote Code Execution (RCE) PoC Exploit](https://exploitbox.io/vuln/WordPress-Exploit-4-6-RCE-CODE-EXEC-CVE-2016-10033.html)
 
-
-
 ## Linux
 
 ## Windows
