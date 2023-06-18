@@ -20,10 +20,6 @@ Links, articles and blogs
 - [ ] [Cheatsheets](/cheatsheet.md) - list of cheatsheets
 - [ ] [Toolbox](/toolbox.md) - list of tools
 
-## Topics
-
-- [General](/general.md)
-
 ## Thanks and inspiration
 
 [TBD]
