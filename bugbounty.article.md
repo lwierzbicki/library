@@ -2,11 +2,11 @@
 
 ## Bug bounty write-ups
 
-- https://pentester.land/list-of-bug-bounty-writeups.html
-- https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
-- https://github.com/jdonsec/AllThingsSSRF
-- https://github.com/ngalongc/bug-bounty-reference
-- https://secureitmania.medium.com/
+- [ ] https://pentester.land/list-of-bug-bounty-writeups.html
+- [ ] https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
+- [ ] https://github.com/jdonsec/AllThingsSSRF
+- [ ] https://github.com/ngalongc/bug-bounty-reference
+- [ ] https://secureitmania.medium.com/
 
 ## Mobile
 
