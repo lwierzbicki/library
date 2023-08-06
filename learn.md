@@ -10,6 +10,7 @@
 - [ ] [KONTRA](https://application.security/)
 - [x] [Mosse-Institue](https://www.mosse-institute.com)
 - [x] [offensive security](https://portal.offensive-security.com/)
+- [ ] [Open Security Training2](https://p.ost2.fyi/)
 - [x] [PentesterLab](https://pentesterlab.com/)
 - [x] [Portswigger Web Academy](https://portswigger.net/web-security)
 - [ ] [Practical DevSecOps](https://www.practical-devsecops.com/)
