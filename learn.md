@@ -4,6 +4,8 @@
 
 - [ ] [APIsec University](https://www.apisecuniversity.com/)
 - [ ] [AppSecEngineer](https://www.appsecengineer.com/)
+- [ ] [Cisco NetAcad](https://www.netacad.com/)
+- [ ] [Cisco Skills for All](https://skillsforall.com/)
 - [ ] [ExodusIntel Training](https://exodusintel.com/training.html)
 - [x] [HackTheBox](https://www.hackthebox.eu/)
 - [x] [HackTheBox Academy](https://academy.hackthebox.com/)
@@ -19,6 +21,14 @@
 - [ ] [TCM Security](https://academy.tcm-sec.com/courses)
 - [ ] [Vulnmachines](https://www.vulnmachines.com/)
 - [x] [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
+
+## Labs
+
+- [ ] [WiFiChallenge](https://wifichallengelab.com/)
+
+## Theory
+
+
 
 ## Courses
 
