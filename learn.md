@@ -7,24 +7,25 @@
 - [ ] [Cisco NetAcad](https://www.netacad.com/)
 - [ ] [Cisco Skills for All](https://skillsforall.com/)
 - [ ] [ExodusIntel Training](https://exodusintel.com/training.html)
-- [x] [HackTheBox](https://www.hackthebox.eu/)
-- [x] [HackTheBox Academy](https://academy.hackthebox.com/)
+- [ ] [HackTheBox Academy](https://academy.hackthebox.com/)
 - [ ] [KONTRA](https://application.security/)
-- [x] [Mosse-Institue](https://www.mosse-institute.com)
-- [x] [offensive security](https://portal.offensive-security.com/)
+- [ ] [Mosse-Institue](https://www.mosse-institute.com)
+- [ ] [offensive security](https://portal.offensive-security.com/)
 - [ ] [Open Security Training2](https://p.ost2.fyi/)
-- [x] [PentesterLab](https://pentesterlab.com/)
-- [x] [Portswigger Web Academy](https://portswigger.net/web-security)
+- [ ] [PentesterLab](https://pentesterlab.com/)
+- [ ] [Portswigger Web Academy](https://portswigger.net/web-security)
 - [ ] [Practical DevSecOps](https://www.practical-devsecops.com/)
-- [x] [sektor7](https://institute.sektor7.net/)
+- [ ] [sektor7](https://institute.sektor7.net/)
 - [ ] [smartcontracthacking](https://smartcontractshacking.com/)
 - [ ] [TCM Security](https://academy.tcm-sec.com/courses)
 - [ ] [Vulnmachines](https://www.vulnmachines.com/)
-- [x] [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
+- [ ] [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
 
 ## Labs
 
-- [ ] [WiFiChallenge](https://wifichallengelab.com/)
+- [ ] [HackTheBox](https://www.hackthebox.eu/)
+- [ ] [WiFiChallenge v1](https://v1.wifichallengelab.com/)
+- [ ] [WiFiChallenge v2](https://wifichallengelab.com/)
 
 ## Theory
 
