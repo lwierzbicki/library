@@ -27,6 +27,10 @@
 - [ ] [WiFiChallenge v1](https://v1.wifichallengelab.com/)
 - [ ] [WiFiChallenge v2](https://wifichallengelab.com/)
 
+## CTFs
+
+- [ ] [Embedded Security CTF](https://microcorruption.com/login)
+
 ## Theory
 
 
@@ -52,6 +56,8 @@
 ## Tech Trainings
 
 - [ ] [Linux Foundation](https://training.linuxfoundation.org/certification-catalog/)
+
+## General open learning
 
 ## Certificate preparations
 A list to prepare for certifications

@@ -45,6 +45,7 @@ places to follow, podcasts, inspirational blogs
 ## Individual blogs to follow
 
 - [boku page](https://0xboku.com/)
+- [christopher truncers][https://www.christophertruncer.com/]
 - [doomsday vault](https://x-c3ll.github.io/)
 - [enigma0x3](https://enigma0x3.net/)
 - [harmj0y](https://www.harmj0y.net/blog/)
