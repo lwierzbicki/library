@@ -48,6 +48,7 @@ places to follow, podcasts, inspirational blogs
 - [christopher truncers][https://www.christophertruncer.com/]
 - [doomsday vault](https://x-c3ll.github.io/)
 - [enigma0x3](https://enigma0x3.net/)
+- [evilsocket](https://www.evilsocket.net/)
 - [harmj0y](https://www.harmj0y.net/blog/)
 - [james kettle site](https://jameskettle.com/)
 - [soroush dalili blog](https://soroush.secproject.com)
@@ -68,3 +69,8 @@ places to follow, podcasts, inspirational blogs
 - [PentesterLand](https://pentester.land/)
 - [ropnop blog](https://blog.ropnop.com/)
 - [voidsec blog](https://voidsec.com/)
+
+## Inspirational github profiles
+
+- [ ][AssassinUKG](https://github.com/AssassinUKG)
+- [ ][CyberSecurityUP](https://github.com/CyberSecurityUP)

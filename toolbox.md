@@ -28,22 +28,37 @@ More idea about tools can be found:
 
 ## Web
 
-- [ ] [Albatar](https://github.com/lanjelot/albatar) | SQLi checker |
-- [ ] [feroxbuster](https://github.com/epi052/feroxbuster) | web discovery |
-- [ ] [graphql-voyager](https://apis.guru/graphql-voyager/) | graphql schema visualizer |
-- [ ] [graphql query generator](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej) | chrome plugin to generate query from graphql schema |
-- [ ] [GQL generator](https://github.com/timqian/gql-generator) | generate queries from graphql schema |
-- [ ] [NoSQLMap](https://github.com/codingo/NoSQLMap) | NoSQL checker |
-- [ ] [SQLmap](https://github.com/sqlmapproject/sqlmap) | SQLi checker |
-- [ ] [XSS Hunter](https://xsshunter.com/) | beacon to identify blind XSS |
+### General purpose
+
+- [ ] [feroxbuster](https://github.com/epi052/feroxbuster): web discovery
+- [ ] [webcopilot](https://github.com/h4r5h1t/webcopilot): enumerate subdomains and run different tools
+
+### Databases
+
+- [ ] [Albatar](https://github.com/lanjelot/albatar): SQLi checker
+- [ ] [NoSQLMap](https://github.com/codingo/NoSQLMap): NoSQL checker
+- [ ] [SQLmap](https://github.com/sqlmapproject/sqlmap): SQLi checker
+
+### Deserialization
+
 - [ ] [ysoserial](https://github.com/frohoff/ysoserial) | Java deserialization payload generator |
 
-#### Mobile
+### GraphQL
+
+- [ ] [graphql-voyager](https://apis.guru/graphql-voyager/): graphql schema visualizer
+- [ ] [graphql query generator](https://chrome.google.com/webstore/detail/graphql-query-generator/jmdpimbhelkmbpgdkjgapkegfapaapej): chrome plugin to generate query from graphql schema
+- [ ] [GQL generator](https://github.com/timqian/gql-generator): generate queries from graphql schema
+
+### XSS
+
+- [ ] [XSS Hunter](https://xsshunter.com/) | beacon to identify blind XSS |
+
+## Mobile
 
 [apkx](https://github.com/b-mueller/apkx) | apk file extractor and decompile |
 [apktool](https://github.com/iBotPeaches/Apktool) | apk file extractor and packer |
 
-#### Windows
+## Windows
 
 [sysinternals](https://docs.microsoft.com/en-us/sysinternals/) | windows toolkit |
 [AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) | attack surface analyzer |
@@ -68,7 +83,11 @@ More idea about tools can be found:
 [AA Encode](https://utf-8.jp/public/aaencode.html) | javascript deobfuscator |
 [JS nice](http://www.jsnice.org/) | javascript deobfuscator |
 
-# Recon
+## File
+
+
+
+## Recon
 
 - [ ] [reNgine](https://github.com/yogeshojha/rengine)
 - [ ] [reconftw](https://github.com/six2dez/reconftw)
