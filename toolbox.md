@@ -21,6 +21,9 @@ More idea about tools can be found:
 - [ ] [Responder](https://github.com/lgandx/Responder.git): LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay
 - [ ] [testssl.sh](https://github.com/drwetter/testssl.sh): SSL checker
 
+ike-skan
+cadaver
+
 ## Cloud
 
 - [ ] [azucar](https://github.com/nccgroup/azucar): Azure checker
@@ -33,11 +36,17 @@ More idea about tools can be found:
 - [ ] [feroxbuster](https://github.com/epi052/feroxbuster): web discovery
 - [ ] [webcopilot](https://github.com/h4r5h1t/webcopilot): enumerate subdomains and run different tools
 
+ffuf
+Eyewitness
+whatweb 10.10.10.121
+
 ### Databases
 
 - [ ] [Albatar](https://github.com/lanjelot/albatar): SQLi checker
 - [ ] [NoSQLMap](https://github.com/codingo/NoSQLMap): NoSQL checker
 - [ ] [SQLmap](https://github.com/sqlmapproject/sqlmap): SQLi checker
+
+sqlninja
 
 ### Deserialization
 
@@ -82,6 +91,10 @@ More idea about tools can be found:
 [JJ Encode](https://utf-8.jp/public/jjencode.html) | javascript deobfuscator |
 [AA Encode](https://utf-8.jp/public/aaencode.html) | javascript deobfuscator |
 [JS nice](http://www.jsnice.org/) | javascript deobfuscator |
+
+
+codegrepper
+sonarqube
 
 ## File
 
