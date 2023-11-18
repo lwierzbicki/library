@@ -24,6 +24,7 @@
 ## Labs
 
 - [ ] [HackTheBox](https://www.hackthebox.eu/)
+- [ ] [Pwned Labs](https://pwnedlabs.io/)
 - [ ] [WiFiChallenge v1](https://v1.wifichallengelab.com/)
 - [ ] [WiFiChallenge v2](https://wifichallengelab.com/)
 
