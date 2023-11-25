@@ -17,6 +17,7 @@
 - [ ] [Practical DevSecOps](https://www.practical-devsecops.com/)
 - [ ] [sektor7](https://institute.sektor7.net/)
 - [ ] [smartcontracthacking](https://smartcontractshacking.com/)
+- [ ] [trainsec](https://training.trainsec.net/)
 - [ ] [TCM Security](https://academy.tcm-sec.com/courses)
 - [ ] [Vulnmachines](https://www.vulnmachines.com/)
 - [ ] [ZeroPointSecurity](https://training.zeropointsecurity.co.uk/)
@@ -27,6 +28,7 @@
 - [ ] [Pwned Labs](https://pwnedlabs.io/)
 - [ ] [WiFiChallenge v1](https://v1.wifichallengelab.com/)
 - [ ] [WiFiChallenge v2](https://wifichallengelab.com/)
+- [ ] [Vulnlab](https://www.vulnlab.com/)
 
 ## CTFs
 
@@ -42,6 +44,8 @@
 - [ ] [pwn.college](https://pwn.college/)
 - [ ] [CMPSC 447 Software Security](https://www.cse.psu.edu/~gxt29/teaching/cs447s19/index.html)
 - [ ] [CS 150 Computer Science Principles](https://www.cs.drexel.edu/~jpopyack/Courses/CSP/Fa21/index.html	)
+- [ ] [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/docs/getting-started-with-kubernetes-goat/)
+- [ ] [Mastering Windows Internal - Grzegorz Tworek](https://gtworek.com/mastering-windows-internals)
 
 ## IoT
 
