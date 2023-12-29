@@ -1,5 +1,9 @@
 # Learn
 
+## General Security 
+
+- [x] [FIRTS Learning platform](https://learn.first.org/index)
+
 ## Trainings
 
 - [ ] [APIsec University](https://www.apisecuniversity.com/)
@@ -10,7 +14,7 @@
 - [ ] [HackTheBox Academy](https://academy.hackthebox.com/)
 - [ ] [KONTRA](https://application.security/)
 - [ ] [Mosse-Institue](https://www.mosse-institute.com)
-- [ ] [offensive security](https://portal.offensive-security.com/)
+- [x] [offensive security](https://portal.offensive-security.com/)
 - [ ] [Open Security Training2](https://p.ost2.fyi/)
 - [ ] [PentesterLab](https://pentesterlab.com/)
 - [ ] [Portswigger Web Academy](https://portswigger.net/web-security)
