@@ -15,11 +15,21 @@ More idea about tools can be found:
 
 - [ ] [bettercap](https://github.com/bettercap/bettercap): MiTM tool
 - [ ] [Impacket](https://github.com/SecureAuthCorp/impacket): Packet crafter for testing Windows
-- [ ] [nuclei](https://github.com/projectdiscovery/nuclei): vulnerability scanner
 - [ ] [NTLMRawUnhide](https://github.com/mlgualtieri/NTLMRawUnhide): get NetNTLM hash from network traffic dump
 - [ ] [RMIscout](https://github.com/BishopFox/rmiscout): JAVA RMI scanner
 - [ ] [Responder](https://github.com/lgandx/Responder.git): LLMNR/NBT-NS/mDNS Poisoner and NTLMv1/2 Relay
-- [ ] [testssl.sh](https://github.com/drwetter/testssl.sh): SSL checker
+
+
+
+### Scanning
+
+- [ ] [nmap](https://github.com/nmap/nmap)
+- [ ] [nuclei](https://github.com/projectdiscovery/nuclei)
+- [ ] [testssl.sh](https://github.com/drwetter/testssl.sh)
+
+### Tunnels
+
+- [ ] [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
 
 ike-skan
 cadaver
@@ -40,7 +50,7 @@ ffuf
 Eyewitness
 whatweb 10.10.10.121
 
-### Databases
+### SQL/NoSQL injection
 
 - [ ] [Albatar](https://github.com/lanjelot/albatar): SQLi checker
 - [ ] [NoSQLMap](https://github.com/codingo/NoSQLMap): NoSQL checker
@@ -61,6 +71,10 @@ sqlninja
 ### XSS
 
 - [ ] [XSS Hunter](https://xsshunter.com/) | beacon to identify blind XSS |
+* Truffle Security custom XSS Hunter instance: https://xsshunter.trufflesecurity.com
+* BXSS Hunter: http://bxsshunter.com
+* XSS.REPORT: https://xss.report
+https://github.com/mandatoryprogrammer/xsshunter-express
 
 ## Mobile
 
@@ -83,6 +97,7 @@ sqlninja
 
 ## Code tools
 
+- [ ] [cq](https://github.com/nccgroup/cq)
 [graudit](https://github.com/wireghoul/graudit) | static code scanning |
 [semgrep](https://github.com/returntocorp/semgrep) | static code scanning |
 [SpotBugs](https://spotbugs.github.io/) | Java static code scanning |
@@ -91,6 +106,7 @@ sqlninja
 [JJ Encode](https://utf-8.jp/public/jjencode.html) | javascript deobfuscator |
 [AA Encode](https://utf-8.jp/public/aaencode.html) | javascript deobfuscator |
 [JS nice](http://www.jsnice.org/) | javascript deobfuscator |
+
 
 
 codegrepper
